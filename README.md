@@ -19,7 +19,6 @@ Grouping으로 멋진 프로젝트를 완성해 보세요! :thumbsup:
 ## 조원
 ### 백엔드
 - 심규렬 ([https://github.com/simgyuryeol](https://github.com/simgyuryeol))
-
 - 하승훈 ([https://github.com/Hoony1019](https://github.com/Hoony1019))
 
 ### 프론트 엔드
