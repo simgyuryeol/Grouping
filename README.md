@@ -1,5 +1,5 @@
 # Grouping
-<br>
+<br/>
 
 ## 프로젝트 소개
 ### 팀원 모집 사이트 :ok_woman:
