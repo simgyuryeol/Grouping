@@ -51,3 +51,5 @@ DevOps
 ## API 명세서
 [API 명세서](https://potent-stop-a1b.notion.site/API-3d33cd69a6584bb08993e7a7b5ff5308)
 ## DB 명세서
+[DB 명세서](https://potent-stop-a1b.notion.site/DB-30b7ad1112834aa59abbed990e8953a4)
+
