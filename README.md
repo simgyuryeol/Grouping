@@ -48,6 +48,8 @@ DevOps
 
 ## 아키텍처
 
+## 기능
+[기능 명세서](https://potent-stop-a1b.notion.site/8cb244338f3942f2bfcf5c05b0137694?v=0f6e2916705d433dac9c76ad62d5db06)
 ## API 명세서
 [API 명세서](https://potent-stop-a1b.notion.site/API-3d33cd69a6584bb08993e7a7b5ff5308)
 ## DB 명세서
